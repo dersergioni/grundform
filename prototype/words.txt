@@ -1,0 +1,37 @@
+# German verbs: several senses, separable and reflexive verbs, an inflected form
+ablegen
+legte ab
+aufhören
+sich erinnern
+gehen
+Bescheid sagen
+# German nouns: gender mismatches, plural that depends on the sense, gender that depends on the sense, plural-only
+der Mond
+das Mädchen
+die Brücke
+Zug
+Schloss
+Bank
+Leiter
+die Leute
+# German false friends and hard function words
+bekommen
+Gift
+Termin
+eigentlich
+doch
+# The same spelling in two languages
+bald
+chat
+# French
+la règle
+passer
+le temps
+la librairie
+le haricot
+# English
+take off
+file
+become
+# Typo
+Brükce

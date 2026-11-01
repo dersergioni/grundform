@@ -1,0 +1,9 @@
+{
+    "id": "grundform",
+    "name": "grundform",
+    "version": "0.1.0",
+    "minAppVersion": "1.7.2",
+    "description": "Look up a word, compare its senses side by side in your languages and save them to a dictionary note.",
+    "author": "dersergioni",
+    "isDesktopOnly": false
+}
