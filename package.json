@@ -1,0 +1,26 @@
+{
+    "name": "grundform",
+    "version": "0.1.0",
+    "private": true,
+    "license": "MIT",
+    "type": "module",
+    "engines": {
+        "node": ">=24"
+    },
+    "scripts": {
+        "check": "tsc -p tsconfig.json && tsc -p tsconfig.node.json",
+        "build": "npm run check && node esbuild.config.mjs",
+        "format": "prettier --write .",
+        "install-plugin": "npm run build && node scripts/install-plugin.ts"
+    },
+    "devDependencies": {
+        "@types/node": "24.19.2",
+        "esbuild": "0.28.2",
+        "obsidian": "1.14.4",
+        "prettier": "3.9.10",
+        "typescript": "7.0.2"
+    },
+    "dependencies": {
+        "ts-fsrs": "5.4.2"
+    }
+}
